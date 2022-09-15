@@ -274,13 +274,13 @@ label start:
             $ vitoria +=1
             hide busted3 with dissolve
         if  profmao == 3:
-            show pedra2
+            show tesoura2
             with dissolve
             pause 0.5
             p "Sua escolha foi:"
             p "Tesoura!"
             "..."
-            hide pedra2
+            hide tesoura2
             show kawai1
             p"Empatou, hihi *w*"
             hide kawai1 with dissolve
